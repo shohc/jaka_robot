@@ -1,0 +1,2 @@
+jaka_description:jaka_driver:jaka_minicobo_moveit_config:jaka_msgs:jaka_planner:jaka_pro16_moveit_config:jaka_pro7_moveit_config:jaka_zu12_moveit_config:jaka_zu18_moveit_config:jaka_zu3_moveit_config:jaka_zu5_moveit_config:jaka_zu7_moveit_config
+-DCATKIN_DEVEL_PREFIX=/home/wcq/jaka_robot/devel -DCMAKE_INSTALL_PREFIX=/home/wcq/jaka_robot/install -G Unix Makefiles
